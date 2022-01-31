@@ -12,13 +12,13 @@ As a user,
 - I can message another user if I want to take on their listing and vice versa.(READ, CREATE)
 
 # Frontend - Wireframe 
-![Screen Shot 2022-01-31 at 2 03 53 PM](https://user-images.githubusercontent.com/60496537/151883766-1b1e4bf4-284b-4b6f-95df-65be230c49bb.png)
+
+
 
 
 
 # Backend - ERD
 
-![Screen Shot 2022-01-31 at 12 30 34 PM](https://user-images.githubusercontent.com/60496537/151883750-966a3795-65f2-41f6-ba29-560146550b93.png)
 
 
 
