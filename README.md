@@ -19,7 +19,8 @@ As a user,
 
 
 # Backend - ERD
-![Roominate-backend erd](https://user-images.githubusercontent.com/60496537/151885766-ce36905d-4a6a-4273-a998-fb9a11b386b1.png)
+![Roominate-backend-erd](https://user-images.githubusercontent.com/60496537/151894736-b8a4dd92-dfbd-4df5-8925-d02af27f52f3.png)
+
 
 
 
